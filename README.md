@@ -9,7 +9,7 @@ Landing page for the Tikvex app — a fast, free TikTok video downloader that sa
 Once published with GitHub Pages:
 
 ```
-https://YOUR-USERNAME.github.io/tikvex/
+https://https://github.com/claudeville20013-lgtm/tikvex/
 ```
 
 (or your custom domain)
